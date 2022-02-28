@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MandeepSingh-059
+- 👋 Hi, I’m MandeepSingh
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning React, Redux
 
